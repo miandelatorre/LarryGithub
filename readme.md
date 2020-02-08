@@ -2,7 +2,7 @@
 
 Esta serie de libros cuentan la historia de un hacker excepcional.
 
-**Miguel Ángel de la Torre**
+**Miguel Ángel de la Torre**, git fan
 
 
 
