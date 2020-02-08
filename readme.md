@@ -2,7 +2,8 @@
 
 Esta serie de libros cuentan la historia de un hacker excepcional.
 
-**Miguel Ángel de la Torre**, Larry Plotter fan
+**Miguel Ángel de la Torre**, Larry Plotter fan & git fan
+
 
 
 
